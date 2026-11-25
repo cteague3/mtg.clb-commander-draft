@@ -56,6 +56,10 @@ The pool is not evenly divided by color. For smaller events, use proportional se
 
 **Event card pool:** cards a player drafted plus their assigned promo. Under this house procedure, drafted cards not in the current deck remain available between games.
 
+**Utility cards:** cards that provide flexible support beyond a deck's regular colored spells. Examples in this pool include **Universal Solvent** and **Meteor Golem** for colorless removal, and **Wayfarer's Bauble** or **Navigation Orb** for mana-base support.
+
+**Mana fixing:** cards that help a deck access the colors it needs. In this pool, **Evolving Wilds** can find a basic land, and the Gate lands—including **Citadel Gate**, **Cliffgate**, **Heap Gate**, **Sea Gate**, and **Black Dragon Gate**—provide colored-mana options. Wayfarer's Bauble and Navigation Orb also help with fixing.
+
 ## House procedure: select a Session Pool
 
 | Players | Packs | Session Pool | Resting Pool |
@@ -71,7 +75,7 @@ Each player receives three packs. Sort the Master Pool into functional groups be
 3. Other rares and mythics
 4. Other uncommons
 5. White, blue, black, red, and green commons
-6. Common utility cards, including colorless cards, artifacts, lands, Gates, and fixing
+6. Common utility cards, including colorless cards, artifacts, lands, Gates, and fixing (for example, Evolving Wilds, Wayfarer's Bauble, and Navigation Orb)
 
 For 3 players, aim for roughly 60% of the pool; for 4 players, roughly 80%; for 5 players, use all cards. The exact category targets in the workbook are starting points, not a substitute for checking the final count. Adjust the selections to exactly 180 or 240 cards.
 
